@@ -1,0 +1,16 @@
+.venv*
+
+/fastapi/app/routers
+/litestar/app/routers
+
+# PyCharm,VSCode
+.idea/
+.vscode/
+.aider*
+
+# Python
+*.pyc
+__pycache__
+
+# LibreOffice lock files
+.~lock*
